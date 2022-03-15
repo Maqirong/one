@@ -14,4 +14,5 @@ else
     echo '当前时间为：'$time >> $dellog
     echo '日志正常：' >> $dellog
     echo '文件大小为：'$del >> $dellog
+    
 fi
